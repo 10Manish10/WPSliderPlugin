@@ -1,0 +1,2 @@
+# WPSliderPlugin
+Customized plugin 
